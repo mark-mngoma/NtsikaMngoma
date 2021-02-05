@@ -1,5 +1,5 @@
 ## Hi there! 👋
-### Mark Here! A Backend Software Engineer by heart and profession and DevOps Engineering Enthusiast.
+### Mark Here! I am a Backend Software Engineer by heart and profession and DevOps Engineering Enthusiast.
 
 #### I am experienced and proficient in these tools: Java, Scala, C#, AWS, Openshift, etc.
 <!--
