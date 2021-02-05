@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi there! 👋
+### Mark Here! A Backend Software Engineer by heart and profession and DevOps Engineering Enthusiast.
 
+#### I am experienced and proficient in these tools: Java, Scala, C#, AWS, Openshift, etc.
 <!--
 **NtsikaMngoma/NtsikaMngoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
