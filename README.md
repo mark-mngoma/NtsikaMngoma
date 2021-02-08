@@ -1,18 +1,13 @@
 ## Hi there! 👋
-### Mark Here! I am a Backend Software Engineer by heart and profession and DevOps Engineering Enthusiast.
+### Mark Here! I am a Backend Software Engineer by heart and profession, also a DevOps Engineering Enthusiast.
 
-#### I am experienced and proficient in these tools: Java, Scala, C#, AWS, Openshift, etc.
-<!--
-**NtsikaMngoma/NtsikaMngoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am experienced and proficient in these tools: Java, Scala, SpringBoot, Quarkus, PlayFramework, AWS, Openshift, etc.
+### I am not a .NET fan, but there are some cool things I can write in C# when required.
 
-Here are some ideas to get you started:
+Summary of me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Machine Learning, Advanced Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about: anything related to the JVM and the Java Memory Model, as well as some interesting backend stuff.
+- 📫 How to reach me: markmngoma@outlook.com
+- ⚡ Fun fact: I enjoy IoT and driving.
