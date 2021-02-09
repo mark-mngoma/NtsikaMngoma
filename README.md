@@ -10,3 +10,6 @@ Summary of me:
 - 💬 Ask me about: anything related to the JVM and the Java Memory Model, as well as some interesting backend stuff.
 - 📫 How to reach me: markmngoma@outlook.com
 - ⚡ Fun fact: I enjoy IoT and driving.
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ntsikamngoma&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ntsikamngoma&langs_count=5&theme=tokyonight)]()
