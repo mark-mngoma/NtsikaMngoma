@@ -12,4 +12,4 @@ Summary of me:
 - ⚡ Fun fact: I enjoy IoT and driving.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ntsikamngoma&count_private=true&theme=vue&showicons=true)]()
-[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ntsikamngoma&hide=javascript,html,php,css, vue&layout=compact&langs_count=10&theme=vue)]()
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ntsikamngoma&hide=javascript,html,php,css&layout=compact&langs_count=10&theme=vue)]()
