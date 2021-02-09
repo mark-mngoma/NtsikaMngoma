@@ -11,7 +11,5 @@ Summary of me:
 - 📫 How to reach me: markmngoma@outlook.com
 - ⚡ Fun fact: I enjoy IoT and driving.
 
-![](https://github.com/NtsikaMngoma/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/NtsikaMngoma/github-stats/blob/master/generated/languages.svg)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ntsikamngoma&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ntsikamngoma&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ntsikamngoma&langs_count=10&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ntsikamngoma&hide=javascript,html,php&count_private=true&theme=tokyonight&showicons=true)]()
