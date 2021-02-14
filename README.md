@@ -1,7 +1,7 @@
 ## Hi there! 👋🏾
 ### Mark Here! I am a Backend Software Engineer by heart and profession, also a DevOps Engineering Enthusiast.
 
-#### I am experienced and proficient in these tools: Java, Scala, SpringBoot, Quarkus, PlayFramework, AWS, Openshift, etc.
+#### I am experienced and proficient in these tools: Java, Scala, SpringBoot, Quarkus, PlayFramework, Microservices, Netflix OSS, AWS, Openshift, etc.
 
 Summary of me:
 
