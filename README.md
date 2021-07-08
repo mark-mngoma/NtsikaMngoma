@@ -1,7 +1,7 @@
 ## Hi there! 👋🏾
 ### Mark Here! I am a Backend Software Engineer by heart and profession, also a DevOps Engineering Enthusiast.
 
-#### I am experienced and proficient in building microservices and these tools: Java, Scala, SpringBoot, Quarkus, Akka, Eclipse Microprofile, Play Framework, Netflix OSS, Docker, Openshift.
+#### I am experienced and proficient in building microservices and integrating miscellenous web services using these tools: Java, Scala, SpringBoot, Quarkus, Akka, Eclipse Micro-Profile, Play Framework, Netflix OSS, Docker, Openshift.
 
 Summary of me:
 
@@ -9,7 +9,7 @@ Summary of me:
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about: anything related to the JVM and the Java Memory Model, as well as some interesting backend stuff.
 - 📫 How to reach me: markmngoma@outlook.com
-- ⚡ Fun fact: I enjoy IoT and driving.
+- ⚡ Fun fact: I enjoy IoT, road trips, travelling, wine, gin & tonic and some good music.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ntsikamngoma&count_private=true&theme=vue&showicons=true)]()
 [![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ntsikamngoma&hide=javascript,html,php,css,vue&layout=compact&langs_count=10&theme=vue)]()
