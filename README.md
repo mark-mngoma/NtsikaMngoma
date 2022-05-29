@@ -1,12 +1,11 @@
 ## Hi there! 👋🏾
-### Mark Here! I am a Backend Software Engineer by heart and profession, also a DevOps Engineering Enthusiast.
+### Mark Here! I am a Backend Software Engineer by heart and profession, also a DevOps Engineering Enthusiast, but I can replace a DevOps engineer via AWS CDK. Lol!
 
-#### I am experienced and proficient in building microservices and integrating miscellenous web services using these tools: Java, Scala, SpringBoot, Quarkus, Akka, Eclipse Micro-Profile, Play Framework, Netflix OSS, Docker, Openshift.
+#### I am experienced and proficient in building microservices and integrating miscellenous web services using these tools: Java, Scala, SpringBoot, Quarkus, Akka, Eclipse Micro-Profile, Ratpack, Micronaut, Podman (CRI-O Runtime), Openshift.
 
 Summary of me:
 
 - 🌱 I’m currently learning Machine Learning, Advanced Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about: anything related to the JVM and the Java Memory Model, as well as some interesting backend stuff.
 - 📫 How to reach me: markmngoma@outlook.com
 - ⚡ Fun fact: I enjoy IoT, road trips, travelling, wine, gin & tonic and some good music.
